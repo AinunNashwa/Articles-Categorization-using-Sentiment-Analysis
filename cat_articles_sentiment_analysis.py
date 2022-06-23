@@ -221,7 +221,7 @@ with open(TOKENIZER_PATH, 'w') as file:
 # Using RegEx to remove unnecessary characters/spaces and numbers
 # Model being trained using Embedding,Bidirectional,LSTM and Dense Layer
 # Model achieved approximately 93% accuracy
-# Recall and f1 score reports around 89% t0 90% accuracy
+# Recall and f1 score reports around 89% to 90% accuracy
 # However the model starts to overfit after 4th epoch
 # Early stopping can be introduced in future to prevent overfitting
 # Increasing the drop out rate also can control overfitting
