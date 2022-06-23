@@ -20,9 +20,11 @@
 ### Results
 `Model`
 
-<img src="static/model.png" alt="model" style="width:300px;height:500px;">
+<img src="plot and result/model.png" alt="model" style="width:300px;height:500px;">
 
 `Model Architecture`
+
+<img src="plot and result/model_architecture.png" alt="model" style="width:300px;height:500px;">
 
 `Classification_Report`
 
