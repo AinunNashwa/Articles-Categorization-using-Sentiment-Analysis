@@ -20,7 +20,8 @@
 ### Results
 `Model`
 
-<img src="plot and result/model.png" alt="model" style="width:300px;height:500px;">
+![model sequential](https://user-images.githubusercontent.com/106902414/175315920-7e3bf8fb-b132-446f-8cf6-9905584f7afc.PNG)
+
 
 `Model Architecture`
 
@@ -46,6 +47,9 @@
 
 
 `Deployment`
+
+![Deploy_2](https://user-images.githubusercontent.com/106902414/175316464-d35ad92b-3832-44aa-8245-27911842a4ed.PNG)
+
 
 ### Discussion
 1) Model achieved approximately 93% accuracy
