@@ -48,7 +48,8 @@
 
 `Deployment`
 
-![Uploading Deploy_2.PNG…]()
+![Deploy_2](https://user-images.githubusercontent.com/106902414/175316464-d35ad92b-3832-44aa-8245-27911842a4ed.PNG)
+
 
 ### Discussion
 1) Model achieved approximately 93% accuracy
