@@ -26,7 +26,7 @@
 
 `Classification_Report`
 
-![f1 score](https://user-images.githubusercontent.com/106902414/175311199-b3cf8e3d-f2a3-4626-bb3b-eb0ec0e9104f.PNG)
+![f1 score](https://user-images.githubusercontent.com/106902414/175312316-c9810334-080f-4989-9368-05e97f34ff6b.PNG)
 
 
 `Confusion_Matrix`
