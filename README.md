@@ -22,13 +22,28 @@
 
 <img src="static/model.png" alt="model" style="width:300px;height:500px;">
 
+`Model Architecture`
+
 `Classification_Report`
+
+![f1 score](https://user-images.githubusercontent.com/106902414/175311199-b3cf8e3d-f2a3-4626-bb3b-eb0ec0e9104f.PNG)
+
 
 `Confusion_Matrix`
 
-`Training Data`
+![ConfusionMatrixDisplay](https://user-images.githubusercontent.com/106902414/175311250-f123ba75-7939-47d0-a713-a65ffe406b81.PNG)
+
+
+`Training Data`: Accuracy vs Loss
+
+![Accuracy vs Loss](https://user-images.githubusercontent.com/106902414/175311307-27a93a1c-d5c5-46e8-a77d-37b39c7a3de2.PNG)
 
 `Tensor Board`
+
+![Tensorboard](https://user-images.githubusercontent.com/106902414/175311400-537e0db2-4273-4980-a54d-b6a1d8190086.PNG)
+
+
+`Deployment`
 
 ### Discussion
 1) Model achieved approximately 93% accuracy
