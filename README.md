@@ -11,13 +11,11 @@
 # Articles Categorization using Sentiment Analysis
 
 ### Descriptions
-1) The objectives of this project is to develop customer model reviews either it is positive or negative feedbacks
-2) Trained with over 60,000 IMDB dataset to categorize positive and negative reviews.
-3) Contains 50,000 reviews and 50,000 sentiments
-4) Data contains anomalies such as HTML tags, unnecessary characters and combination of uppercase and lowercase alphabets
-6) By using RegEx to remove the anamolies: remove HTML tags and unnecessary character and convert all alphabets into lowercase
-7) Trained with 10 epochs
-8) Methods used: `Word Embedding`,`LSTM`,`Bidirectional`
+1) The objectives of this project is to develop model that can filter the articles into different categories. 
+2) Trained with over 2000 IMDB dataset to categorize into namely *Sport, Tech, Business, Entertainment and Politics*.
+3) Contains 2,225 texts and 2,225 categories
+4) Data contains anomalies such as numbers, unnecessary characters and spaces.
+5) Methods used to train the model: `Word Embedding`,`LSTM`,`Bidirectional`, `Drop out`, `Dense`
 
 ### Results
 `Model`
@@ -30,11 +28,20 @@
 
 `Training Data`
 
+`Tensor Board`
+
 ### Discussion
+1) Model achieved approximately 93% accuracy
+2) Recall and f1 score reports around 89% t0 90% accuracy
+3) However the model starts to overfit after 4th epoch
+
 *Suggestions to Improve the Performance of Model*
+
 1) Apply `Early Stopping` to prevent overfitting
 2) Increase `Droput rate` to control overfitting
-3) Approach with different architecture such as: `BERT Model`,`Transformer Model`,`GPT3`
+3) Increase the model `complexity`: increase number of nodes and dense
+4) Further improvement during preprocessing data is by applying : `Stemming`, `Lemmatization`, `Stopwords`
+5) Approach with different architecture such as: `BERT Model`,`Transformer Model`,`GPT3`
 
 ### Credits
 `You can load the dataset from here`
